@@ -23,7 +23,7 @@
 
 <img src="diagram.png" width="790" height="615"/> 
 
-#### 2) Задача реализована при помощи языка `C#` : [ControlWork1](https://github.com/Oleg-Skalskiy/Trojan32.git)
+#### 2) Задача реализована при помощи языка `C#` : [ControlWork1](https://github.com/Oleg-Skalskiy/Trojan32/CW1/Program.cs)
 	
 #### 3) В работе версий испльзовался контроль версий GIT
 
